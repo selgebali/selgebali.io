@@ -27,13 +27,12 @@ accomplishments:
   courseOverview: "This course covered- How to build a powerful search engine with Elasticsearch, The theory of Elasticsearch and how it works under-the-hood, How to write complex search queries, advanced knowled in the concepts and terminology of Elasticsearch."
   certificateURL: "https://www.udemy.com/course/elasticsearch-complete-guide/?couponCode=LEADERSALE24B"
 
-- name: eLife Innovation Leaders 2020 Mentorship Program
-  timeline: "June-2020"
+- name: FAIR Impact for Signposting and ROCRATE
+  timeline: "2024"
   organization:
-    name: eLife
-    url: https://elifesciences.org/labs/bced51c5/innovation-leaders-2020-a-summary
-  courseOverview: eLife Innovation Leaders is a new open leadership training and mentorship programme designed for innovators developing prototypes or community projects to improve open science and research communication.
-  # certificateURL: "https://elifesciences.org/labs/bced51c5/innovation-leaders-2020-a-summary"
+    name:  FAIRImpact
+    url: https://fair-impact.eu/news/congratulations-successful-applicants-our-first-open-call
+  courseOverview: Awarded FAIRImpact grant to contribute to initiatives aimed at enhancing the findability and accessibility of research outputs through improved signposting and the use of ROCRATE metadata standards.
 
 - name: Wellcome Genome Campus Award for Best Practice in Supporting Equality and Diversity in Science
   timeline: "March 2019"
@@ -62,3 +61,10 @@ accomplishments:
     name:  OSCE
     url: https://osc-international.com/osc-egypt/ 
   courseOverview: Played a pivotal role in establishing the Open Science Community in Egypt. Provided strategic advice and support, facilitating workshops and seminars to train local researchers in open science methodologies, thereby promoting open science practices among Egyptian researchers.
+- name: eLife Innovation Leaders 2020 Mentorship Program
+  timeline: "June-2020"
+  organization:
+    name: eLife
+    url: https://elifesciences.org/labs/bced51c5/innovation-leaders-2020-a-summary
+  courseOverview: eLife Innovation Leaders is a new open leadership training and mentorship programme designed for innovators developing prototypes or community projects to improve open science and research communication.
+  # certificateURL: "https://elifesciences.org/labs/bced51c5/innovation-leaders-2020-a-summary"

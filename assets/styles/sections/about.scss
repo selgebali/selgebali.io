@@ -1,12 +1,12 @@
 @use 'sass:map';
 
 $progress-bar-colors: (
-  'blue': #048dff,
-  'yellow': #eebb4d,
+  'blue': #82A63D,
+  'yellow': #BCA954,
   'pink': #ed63d2,
   'green': #2dca73,
   'sky': #00c9e3,
-  'orange': #ff7c7c,
+  'orange': #071159,
 );
 
 @mixin circular-progress-bar-color() {

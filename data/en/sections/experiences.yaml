@@ -64,6 +64,35 @@ experiences:
     - Develop guidelines and standards to boost digital objects' interoperability, accessibility, and reusability.
  ###########
 - company:
+    name: NASA Transform to Open Science
+    url: "https://nasa.github.io/Transform-to-Open-Science/"
+    location: Remote
+    logo: /images/sections/experiences/Tops.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company3.jpg
+    overview: Transform to Open Science (TOPS) is a NASA initiative designed to rapidly transform agencies, organizations, and communities to an inclusive culture of open science. TOPS is part of NASA´s Open-Source Science Initiative. 
+  positions:
+  - designation: Open Data Module Lead
+    start: 2022
+    end: 2022
+    responsibilities:
+    - Led the development of the Open Data module within the NASA OpenCore project, enhancing data accessibility and openness.
+ ###########
+- company:
+    name: RDA & EOSC Future 
+    url: "https://www.rd-alliance.org/eosc-future-grant-sara-el-gebali-life-science/"
+    location: Remote
+    logo: /images/sections/experiences/rda.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company2.jpg
+   # overview: 
+  positions:
+  - designation: RDA/EOSC Future Domain Ambassador
+    start: August 2021
+    responsibilities:
+    - The key focus of my ambassador activities was to deliver a series of “Ask Me Anything”-style events featuring keynote speakers from the RDA and EOSC groups focused on RDA activities and EOSC solutions in relation to FAIR implementation and Open practices in Science. 
+ ###########
+- company:
     name: SciLifeLab-DataCentre
     url: "https://www.scilifelab.se/data"
     location: Uppsala-Sweden
@@ -79,21 +108,6 @@ experiences:
     - Directed the implementation of multiple open-source technical solutions, notably the Digital Research Hub for Biosamples metadata handling.
     - Promoted Open & FAIR practices extensively through strategic outreach and training programs.
     - Managed a dynamic team as Agile Product Owner, comprising developers and data stewards.
- ###########
-- company:
-    name: NASA Transform to Open Science
-    url: "https://nasa.github.io/Transform-to-Open-Science/"
-    location: Remote
-    logo: /images/sections/experiences/Tops.png
-    # Can optionally show a different logo for dark theme
-    # darklogo: /images/sections/experiences/company3.jpg
-    overview: Transform to Open Science (TOPS) is a NASA initiative designed to rapidly transform agencies, organizations, and communities to an inclusive culture of open science. TOPS is part of NASA´s Open-Source Science Initiative. 
-  positions:
-  - designation: Open Data Module Lead
-    start: 2022
-    end: 2022
-    responsibilities:
-    - Led the development of the Open Data module within the NASA OpenCore project, enhancing data accessibility and openness.
  ###########
 - company:
     name: Max Delbrück Center for Molecular Medicine (MDC)
