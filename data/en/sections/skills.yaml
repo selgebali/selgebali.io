@@ -32,7 +32,7 @@ skills:
 #############
 - name: ElasticSearch
   logo: /images/sections/skills/elastic.jpg
-  summary: "Intermediate user capabale of using elasticsearch and Kibana visualization tools to produce metrics and insights."
+  summary: "Intermediate user capable of using elasticsearch and Kibana visualization tools to produce metrics and insights."
   url: "https://www.elastic.co/"
 #############
 - name: Python
