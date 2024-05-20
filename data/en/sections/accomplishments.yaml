@@ -11,36 +11,54 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
-  organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
-
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
-  organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
-
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
-  organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
-
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+- name: Data Visualizations with Kibana
+  timeline: "May-2024"
   organization:
     name: Udemy
     url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://example.com"
- 
+  courseOverview: This course covered- Fundamentals of Kibana, Securing Kibana (users, roles, and spaces), Creating basic & advanced visualizations, Kibana Query Language (KQL), Creating and interacting with dashboards, Reporting and Alerting
+  certificateURL: "https://www.udemy.com/certificate/UC-20476a97-0d6b-4666-8e56-e865626cc8de/"
 
+- name: Complete Guide to ElasticSearch
+  timeline: "May-2024"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com
+  courseOverview: "This course covered- How to build a powerful search engine with Elasticsearch, The theory of Elasticsearch and how it works under-the-hood, How to write complex search queries, advanced knowled in the concepts and terminology of Elasticsearch."
+  certificateURL: "https://www.udemy.com/course/elasticsearch-complete-guide/?couponCode=LEADERSALE24B"
+
+- name: eLife Innovation Leaders 2020 Mentorship Program
+  timeline: "June-2020"
+  organization:
+    name: eLife
+    url: https://elifesciences.org/labs/bced51c5/innovation-leaders-2020-a-summary
+  courseOverview: eLife Innovation Leaders is a new open leadership training and mentorship programme designed for innovators developing prototypes or community projects to improve open science and research communication.
+  # certificateURL: "https://elifesciences.org/labs/bced51c5/innovation-leaders-2020-a-summary"
+
+- name: Wellcome Genome Campus Award for Best Practice in Supporting Equality and Diversity in Science
+  timeline: "March 2019"
+  organization:
+    name: Wellcome Trust Genome Campus
+    url: https://www.sanger.ac.uk/news_item/champions-of-equality-and-diversity-celebrated/
+  courseOverview: Awarded for outstanding contributions to promoting equality and diversity within the scientific community, highlighting efforts to create an inclusive environment that fosters diversity in scientific research and education.
+  # certificateURL: "https://www.sanger.ac.uk/news_item/champions-of-equality-and-diversity-celebrated/"
+
+- name: Brave the Shave Campaign
+  timeline: "2017"
+  organization:
+    name:  Macmillan Cancer Support
+    url: https://x.com/yalahowy/status/846480295129825280 
+  courseOverview: Participated in the Brave the Shave campaign, raising significant funds for MacMillan Cancer Support, and also contributed to the Little Princess Trust by donating hair for wigs for children undergoing cancer treatment.
+
+- name: Volunteer at Refugee Camps in Lesvos
+  timeline: "2020"
+  organization:
+    name:  Lesvos-Greece
+    url: https://yogasportwithrefugees.org/ 
+  courseOverview: Contributed to humanitarian efforts by volunteering at refugee camps, providing support and aid to displaced individuals.
+- name: Open Science Community Egypt 
+  timeline: "2023"
+  organization:
+    name:  OSCE
+    url: https://osc-international.com/osc-egypt/ 
+  courseOverview: Played a pivotal role in establishing the Open Science Community in Egypt. Provided strategic advice and support, facilitating workshops and seminars to train local researchers in open science methodologies, thereby promoting open science practices among Egyptian researchers.

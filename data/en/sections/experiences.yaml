@@ -11,63 +11,135 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
+    name: DataCite
+    url: "https://www.datacite.org"
+    location: Germany-Remote
+    logo: /images/sections/experiences/DataCite.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: DataCite is a world-leading provider of persistent identifier services to help make research outputs and resources findable, citable, connected, and reused globally.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Metadata Specialist
+    start: November 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
-
+    - Champion the promotion, refinement, and integration of the DataCite metadata schema across broader PID infrastructures.
+    - Conduct quality assurance checks and metric analysis to elevate metadata quality.
+    - Contribute to the strategic planning and concept development within the PID4NFDI project.
+    - Provide expert training, guidance, and support.
+ ###########
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
+    name: FAIRPoints
+    url: "https://fairpoints.org/"
+    location: Remote
+    logo: /images/sections/experiences/fairpoints.svg
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: The event series highlighting pragmatic measures developed by the community towards the implementation of the FAIR (Findable, Accessible, Interoperable, Reusable) data principles.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Co-Founder
+    start: 2022
+    # end: October 2023
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
+    - Initiated and currently co-lead FAIRPoints, a pivotal platform fostering discussions and training on FAIR principles globally.
+    - Organize international webinars and workshops aimed at advancing data management standards implementation.
+ ###########
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
+    name: FAIR Digital Objects Forum
+    url: "https://fairdo.org/"
+    location: Remote
+    logo: /images/sections/experiences/fairdo.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company2.jpg
+   # overview: 
+  positions:
+  - designation: Steering Committee Member
+    start: 2022
+    # end: October 2023
+    responsibilities:
+    - Engage in strategic planning and initiative execution to promote FAIR Digital Objects' adoption in research and data management.
+    - Develop guidelines and standards to boost digital objects' interoperability, accessibility, and reusability.
+ ###########
+- company:
+    name: SciLifeLab-DataCentre
+    url: "https://www.scilifelab.se/data"
+    location: Uppsala-Sweden
+    logo: /images/sections/experiences/scilifelab.svg
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company2.jpg
+   # overview: 
+  positions:
+  - designation: Project leader for Metadata and Curation
+    start: August 2021
+    end: October 2023
+    responsibilities:
+    - Directed the implementation of multiple open-source technical solutions, notably the Digital Research Hub for Biosamples metadata handling.
+    - Promoted Open & FAIR practices extensively through strategic outreach and training programs.
+    - Managed a dynamic team as Agile Product Owner, comprising developers and data stewards.
+ ###########
+- company:
+    name: NASA Transform to Open Science
+    url: "https://nasa.github.io/Transform-to-Open-Science/"
+    location: Remote
+    logo: /images/sections/experiences/Tops.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Transform to Open Science (TOPS) is a NASA initiative designed to rapidly transform agencies, organizations, and communities to an inclusive culture of open science. TOPS is part of NASA´s Open-Source Science Initiative. 
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Open Data Module Lead
+    start: 2022
+    end: 2022
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Led the development of the Open Data module within the NASA OpenCore project, enhancing data accessibility and openness.
+ ###########
+- company:
+    name: Max Delbrück Center for Molecular Medicine (MDC)
+    url: "https://www.mdc-berlin.de/news/news/two-new-data-managers-join-mdc"
+    location: Berlin-Germany
+    logo: /images/sections/experiences/max.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company2.jpg
+  positions:
+  - designation: Head of the Research Data Management Team
+    start: 2020
+    end: 2021
+    responsibilities:
+    - Established and led the research data management unit, crafting policies and strategies that strengthened research data governance and support.
+    - Supported and advised researchers, providing training and workshops.
+  ########### 
+- company:
+    name: European Bioinformatics Institute (EMBL-EBI)
+    url: "https://www.ebi.ac.uk/"
+    location: Cambridge-UK
+    logo: /images/sections/experiences/ebi.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company2.jpg
+  positions:
+  - designation: Scientific Database Curator
+    start: 2016
+    end: 2019
+    responsibilities:
+    - Curated extensive protein sequence datasets at Pfam.
+    - Managed bioinformatics resources for protein biology.
+    - Taught bioinformatics resources for protein sequence analysis
+    - Contributed to regulatory and governance processes as a member of the  Staff Association committee.
+ ###########
+- company:
+    name: European Molecular Biology Organization (EMBO)
+    url: "https://www.embo.org/"
+    location: Heidelberg-Germany
+    logo: /images/sections/experiences/embo.svg
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company2.jpg
+  positions:
+  - designation: Scientific Data Editor
+    start: 2015
+    end: 2016
+    responsibilities:
+    - Conducted in-depth analysis and interpretation of scientific content to create structured and machine-readable metadata.
+    - Coordinated activities with software and bioinformatics teams to develop databases and user interfaces.
+    - Developed workflows for editorial and production processes and created new avenues for promoting the SourceData project.
+ ###########

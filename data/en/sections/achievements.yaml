@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Achievements
+  name: Podcasts and Media Appearances
   id: achievements
   enable: true
   weight: 10
@@ -10,15 +10,14 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Award Winner
-  image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+- title: FAIRDataPodcast
+  image: /images/sections/achievements/fdp.jpg
+  summary: Engaged in a deep dive into the evolving landscape of FAIR data practices, discussing their pivotal role in advancing scientific research. The conversation addressed how these practices enhance the accessibility and usability of research data across various scientific fields. Listen to the episode https://podcasters.spotify.com/pod/show/fairdatapodcast/episodes/Dr--Sara-El-Gebali-e1fpkvc/a-a7j76ls 
+
+- title: Podbean Interview on Open Science
+  image: /images/sections/achievements/podbean.png
+  summary: Explored the crucial aspects of data interoperability and envisioned the future of scientific collaboration. This discussion emphasized the need for seamless data exchange and integration to foster collaborative research efforts globally. Listen on Podbean https://www.podbean.com/ew/pb-jf9b2-1381ee3
+
+- title: RSEng Dev Stories
+  image: /images/sections/achievements/devstories.png
+  summary: Shared personal insights and professional experiences regarding the challenges and triumphs in the realm of data management. This narrative highlighted how strategic data management practices contribute to the efficiency and effectiveness of scientific research. Listen on RSEng Dev Stories https://rseng.github.io/devstories/2023/sara/

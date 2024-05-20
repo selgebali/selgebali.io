@@ -11,39 +11,51 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
-
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
-
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
-
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-
+- name: Jira
+  logo: /images/sections/skills/jira-1.svg
+  summary: "Advanced user, capabale of setting up and configuring Jira projects and agile boards (Kanban, Scrum), using JQL for search & filter, configuring automation, building sprints plan and user stories as well as monitoring progress."
+  url: "https://www.atlassian.com/software/jira"
+#############
+- name: Confluence
+  logo: /images/sections/skills/confluence.jpg
+  summary: "Capable of creating and maintaining product documentation, and building knowledge bases, building and customizing confluence pages."
+  url: "https://www.atlassian.com/software/confluence"
+#############
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Advanced user experienced with git-based development. Mostly, use command line application. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
+#############
+- name: Web Standards
+  logo: /images/sections/skills/w3c.svg
+  summary: "Advanced knowledge of many webstandards including RDF, SKOS, SPARQL and OWL."
+#############
+- name: ElasticSearch
+  logo: /images/sections/skills/elastic.jpg
+  summary: "Intermediate user capabale of using elasticsearch and Kibana visualization tools to produce metrics and insights."
+  url: "https://www.elastic.co/"
+#############
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Intermediate user capable of writing small scripts to clean data and automate things."
+#############
+- name: Bash
+  logo: /images/sections/skills/bash.png
+  summary: "Intermediate to advanced user. Capable of writing bash/shell scripts for cleaning data and batch operations. My go to tool of choice!"
+  url: "https://tiswww.case.edu/php/chet/bash/bashtop.html"
+#############
+- name: MySQL
+  logo: /images/sections/skills/mysql.png
+  summary: "Beginner to intermediate level."
+  url: "https://www.mysql.com/"
+#############
+- name: HTML/CSS
+  logo: /images/sections/skills/html.jpg
+  summary: "Capable of setting up and confirguring static websites."
+  
+#############
+- name: Prompt engineering
+  logo: /images/sections/skills/prompt.png
+  summary: "For fun projects!"
+#############
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."

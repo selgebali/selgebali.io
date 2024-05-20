@@ -12,71 +12,237 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: "Machine Learning"
-  filter: "machinelearning"
-- name: "Image Processing"
-  filter: "image-processing"
-- name: Security
-  filter: "security"
+- name: "Research Data Management"
+  filter: "rdm"
+- name: "EDIA"
+  filter: "edia"
+- name: "Metadata"
+  filter: "metadata"
+- name: "Conferences & Teaching"
+  filter: "conferences-teaching"
+- name: "Blogs & Articles"
+  filter: "blogs-articles"
+
 
 # your publications
 publications:
-- title: An Example Paper on Machine Learning
+- title: Ten simple rules for pushing boundaries of inclusion at academic events.
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
-  authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+    name:  PLoS Comput Biol.
+    date: 1 March 2024
+    url: https://doi.org/10.1371/journal.pcbi.1011797
   paper:
-    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
-    url: https://example.com
-  categories: ["machinelearning","image-processing"]
-  tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
-
-- title: An Sample Paper on Image Processing
+    summary: Inclusion at academic events is facing increased scrutiny as the communities these events serve raise their expectations for who can practically attend. Active efforts in recent years to bring more diversity to academic events have brought progress and created momentum. However, we must reflect on these efforts and determine which underrepresented groups are being disadvantaged. Inclusion at academic events is important to ensure diversity of discourse and opinion, to help build networks, and to avoid academic siloing. All of these contribute to the development of a robust and resilient academic field. We have developed these Ten Simple Rules both to amplify the voices that have been speaking out and to celebrate the progress of many Equity, Diversity, and Inclusivity practices that continue to drive the organisation of academic events. The Rules aim to raise awareness as well as provide actionable suggestions and tools to support these initiatives further. This aims to support academic organisations such as the Deep Learning Indaba, Neuromatch Academy, the IBRO-Simons Computational Neuroscience Imbizo, Biodiversity Information Standards (TDWG), Arabs in Neuroscience, FAIRPoints, and OLS (formerly Open Life Science). This article is a call to action for organisers to reevaluate the impact and reach of their inclusive practices.
+    url: https://doi.org/10.1371/journal.pcbi.1011797
+  categories: ["edia"]
+  tags: ["EDIA"]
+###########
+- title: NASA TOPS Open Science 101
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
-  authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+    name: Zenodo
+    date: 6 December 2023
+    url: https://zenodo.org/records/10161527
   paper:
-    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
-    url: https://example.com
-  categories: ["image-processing"]
-  tags: ["Image Processing", "Computer Vision"]
-
-- title: An Example Paper on Security
+    summary: This is the initial v1.0.0 release of NASA’s Open Science 101 curriculum converted into Markdown from openscience101.org. The open science curriculum will introduce those beginning their open science journey to important definitions, tools, and resources; and provide participants at all levels recommendations on best practices.
+    url: https://zenodo.org/records/10161527
+  categories: ["conferences-teaching"]
+  tags: ["Conferences & Teaching"]
+###########
+- title:  SourceData a semantic platform for curating and searching figures 
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
-  authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+    name: Nature Methods
+    date: 31 October 2017
+    url: https://doi.org/10.1038/nmeth.4471
   paper:
-    summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
-    url: https://example.com
-  categories: ["security"]
-  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+    summary: SourceData  a platform that allows researchers and publishers to share scientific figures and (when available) underlying source data in a way that is machine readable and findable. 
+    url: https://doi.org/10.1038/nmeth.4471
+  categories: ["rdm"]
+  tags: ["Research Data Management"]
+###########
+- title: Harmonizing Metadata Across Disciplines – Bioschemas and the DataCite Metadata Schema
+  publishedIn:
+    name: DataCite
+    date: 7 March 2024
+    url: https://doi.org/10.5438/vzqp-m504
+  paper:
+    summary: The blog post highlights the integration of Bioschemas with the DataCite Metadata Schema to enhance metadata interoperability across various scientific disciplines. This collaboration aims to improve the findability and usability of life sciences data by standardizing metadata descriptions and facilitating cross-domain data sharing.
+    url: https://doi.org/10.5438/vzqp-m504
+  categories: ["blogs-articles", "metadata"]
+  tags: ["Blogs & Articles", "Metadata"]
+###########
+- title:  DataCite metadata training
+  publishedIn:
+    name: Zenodo
+    date: 9 April 2024
+    url: https://zenodo.org/doi/10.5281/zenodo.10950234 
+  paper:
+    summary: DataCite Metadata Training covering The DataCite Metadata Schema, DataCite metadata journey, Making connections with DataCite metadata
+    url: https://zenodo.org/doi/10.5281/zenodo.10950234 
+  categories: ["metadata", "conferences-teaching" ]
+  tags: ["Metadata", "Conferences & Teaching"]
+###########
+- title: RDA EOSC Future Spotlight
+  publishedIn:
+    name: RDA website
+    date: 7 June 2020
+    url: https://www.rd-alliance.org/eosc-future-spotlight-sara-el-gebali/
+  paper:
+    summary: RDA/EOSC Future Domain Ambassador Spotlight- Sara El-Gebali, Life Science.
+    url: https://www.rd-alliance.org/eosc-future-spotlight-sara-el-gebali/
+  categories: ["blogs-articles"]
+  tags: ["Blogs & Articles"]
+###########
+- title: InterPro in 2017-beyond protein family and domain annotations. 
+  publishedIn:
+    name:  Nucleic Acids Res.
+    date: 4 January 2017
+    url: https://doi.org/10.1093/nar/gkw1107
+  paper:
+    summary: InterPro (http://www.ebi.ac.uk/interpro/) is a freely available database used to classify protein sequences into families and to predict the presence of important domains and sites. InterProScan is the underlying software that allows both protein and nucleic acid sequences to be searched against InterPro's predictive models, which are provided by its member databases. Here, we report recent developments with InterPro and its associated software, including the addition of two new databases (SFLD and CDD), and the functionality to include residue-level annotation and prediction of intrinsic disorder. These developments enrich the annotations provided by InterPro, increase the overall number of residues annotated and allow more specific functional inferences.
+    url: https://doi.org/10.1093/nar/gkw1107
+  categories: ["rdm", "metadata"]
+  tags: ["Research Data Management", "Metadata"]
+###########
+- title:  InterPro in 2019- improving coverage, classification and access to protein sequence annotations 
+  publishedIn:
+    name:  Nucleic Acids Res.
+    date: 8 January 2019
+    url: https://doi.org/10.1093/nar/gky1100
+  paper:
+    summary: The InterPro database (http://www.ebi.ac.uk/interpro/) classifies protein sequences into families and predicts the presence of functionally important domains and sites. Here, we report recent developments with InterPro (version 70.0) and its associated software, including an 18% growth in the size of the database in terms on new InterPro entries, updates to content, the inclusion of an additional entry type, refined modelling of discontinuous domains, and the development of a new programmatic interface and website. These developments extend and enrich the information provided by InterPro, and provide greater flexibility in terms of data access. We also show that InterPro's sequence coverage has kept pace with the growth of UniProtKB, and discuss how our evaluation of residue coverage may help guide future curation activities.
+    url: https://doi.org/10.1093/nar/gky1100
+  categories: ["rdm", "metadata"]
+  tags: ["Research Data Management", "Metadata"]
+###########
+- title: Overcoming the obstacles to data sharing 
+  publishedIn:
+    name:  Science Business
+    date: 14 September 2023
+    url: https://sciencebusiness.net/news/overcoming-obstacles-data-sharing
+  paper:
+    summary: The article from Science|Business highlights the hurdles to effective data sharing, despite the push for open science. These challenges include variations across disciplines, legal and ethical concerns, and insufficient incentives. The Research Data Alliance (RDA) is tackling these issues by promoting FAIR data principles, offering guidelines, and supporting researchers with training and infrastructure. The RDA also emphasizes the role of domain ambassadors in fostering cross-disciplinary collaboration and making data sharing more practical and appealing for researchers.
+    url: https://sciencebusiness.net/news/overcoming-obstacles-data-sharing
+  categories: ["blogs-articles"]
+  tags: ["Blogs & Articles"]
+###########
+- title: Developing a mapping process framework 
+  publishedIn:
+    name:  Zenodo
+    date: 30 April 2024
+    url: https://zenodo.org/records/11094911
+  paper:
+    summary: FAIR-IMPACT conducts workshops on mapping and crosswalks within the community, aiming to standardise the mapping process by identifying common components and approaches used in community practices. These workshops consist of practical sessions, presentations on initial experiences, and feedback regarding the framework, followed by applying the framework to mapping exercises. Semantic artefacts, such as ontologies and vocabularies, are crucial for data interoperability and implementing FAIR principles. FAIR-IMPACT focuses on making mappings shareable and reusable, elevating them to citizens in the FAIR data world. In previous FAIR-IMPACT workshops, we explored the motivation behind mappings and methodologies for making them FAIR. In this workshop, we aim to formalise a mapping process framework based on community practices and trial its implementation. Visit the official event page to watch the video recording  https://fair-impact.eu/events/fair-impact-events/developing-mapping-process-framework.
+    url: https://zenodo.org/records/11094911
+  categories: ["rdm", "metadata"]
+  tags: ["Research Data Management", "Metadata"]
+###########
+- title: ELIXIR fair training handbook 
+  publishedIn:
+    name:  Zenodo
+    date: 19 March 2024
+    url: https://zenodo.org/records/10839551
+  paper:
+    summary: Train-the-trainer handbook for making training materials FAIR
+    url: https://zenodo.org/records/10839551
+  categories: ["conferences-teaching", "metadata"]
+  tags: ["Metadata", "Conferences & Teaching"]
+###########
+- title: FAIR Digital Objects Participation Guidelines 
+  publishedIn:
+    name:  Zenodo
+    date: 18 December 2023
+    url: https://zenodo.org/records/10303617
+  paper:
+    summary: FAIR Digital Objects Forum, Diversity Statement & Participation Guidelines
+    url: https://zenodo.org/records/10303617
+  categories: ["edia"]
+  tags: ["EDIA"]
+###########
+- title: Inclusion and Digital Equity From Theory to Practice
+  publishedIn:
+    name: Zenodo
+    date: 25 July 2023
+    url: https://zenodo.org/records/8183124
+  paper:
+    summary: Invited Presentation- Inclusion and Digital Equity from theory to practice delivered at ISCB2023. 
+    url: https://zenodo.org/records/8183124
+  categories: ["edia", "conferences-teaching"]
+  tags: ["EDIA", "Conferences & Teaching"]
+###########
+- title: A New Odyssey- Pioneering the Future of Scientific Progress Through Open Collaboration
+  publishedIn:
+    name:  Zenodo
+    date: 24 July 2023
+    url: https://zenodo.org/records/8176762
+  paper:
+    summary: Key note presentation at BOSC2023 https://www.open-bio.org/events/bosc-2023/bosc-2023-keynotes/
+    url: https://zenodo.org/records/8176762
+  categories: ["edia", "conferences-teaching"]
+  tags: ["EDIA", "Conferences & Teaching"]
+###########
+- title: The way forward with inclusive Open Science
+  publishedIn:
+    name: Zenodo
+    date: 10 March 2023
+    url: https://zenodo.org/records/7715530
+  paper:
+    summary: Presentation slides used during AAAS 2023 panel discussion session title- Foster Inclusion in Scientific Communities through Shared Data https://aaas.confex.com/aaas/2023/meetingapp.cgi/Paper/31052 
+    url: https://zenodo.org/records/7715530
+  categories: ["edia", "conferences-teaching"]
+  tags: ["EDIA", "Conferences & Teaching"]
+###########
+- title: Data Management Planning
+  publishedIn:
+    name:  Zenodo
+    date: 19 July 2022
+    url: https://zenodo.org/records/6860637
+  paper:
+    summary: BHKi Seminars- Bioinformatics, software engineering and Data Management- Data Management Planning 19th July 2022
+    url: https://zenodo.org/records/6860637
+  categories: ["rdm", "conferences-teaching"]
+  tags: ["Research Data Management", "Conferences & Teaching"]
+###########
+- title: FAIR4Software-Workshop material
+  publishedIn:
+    name:  Zenodo
+    date: 23 March 2022
+    url: https://zenodo.org/records/6574092
+  paper:
+    summary: Material for 1.5 hour workshop on FAIR principles with regards to software, and what is currently known, best practices for FAIRness.
+    url: https://zenodo.org/records/6574092
+  categories: ["rdm", "conferences-teaching"]
+  tags: ["Research Data Management", "Conferences & Teaching"]
+###########
+- title: The road beyond Open
+  publishedIn:
+    name:  Zenodo
+    date: 9 May 2022
+    url: https://zenodo.org/records/6532283
+  paper:
+    summary: Presentation for Open Science Pathways in the Earth, Space, and Life Sciences- https://www.scilifelab.se/event/agu-scilifelab/ 
+    url: https://zenodo.org/records/6532283
+  categories: ["rdm", "conferences-teaching"]
+  tags: ["Research Data Management", "Conferences & Teaching"]
+###########
+- title: BOSSConf_2022_Research_Data_Management
+  publishedIn:
+    name:  Zenodo
+    date: 26 April 2022
+    url: https://zenodo.org/records/6490583
+  paper:
+    summary: Presentation on Open Science, FAIR principles, Research Data Management, FAIR Software, delivered during BOSSConf 2022
+    url: https://zenodo.org/records/6490583
+  categories: ["rdm", "conferences-teaching"]
+  tags: ["Research Data Management", "Conferences & Teaching"]
+###########
+- title: Research Data Management 1 day workshop
+  publishedIn:
+    name:  Zenodo
+    date: 25 February 2021
+    url: https://zenodo.org/records/4562630
+  paper:
+    summary: Materials for 1 full-day workshop on Research Data Management basics 
+    url: https://zenodo.org/records/4562630 
+  categories: ["rdm", "conferences-teaching"]
+  tags: ["Research Data Management", "Conferences & Teaching"]
+###########

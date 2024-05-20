@@ -8,79 +8,81 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Metadata Specialist
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: DataCite
+  url: "https://www.datacite.org"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
-# resume: "files/resume.pdf"
+# resume: "files/2024-05991_Sara El-Gebali_CV.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a dedicated Project Lead, Product Owner, and Research Data Manager with a Ph.D. in cancer research. My journey has been driven by a passion for transforming data into meaningful insights, and I have been fortunate to work on projects that align with this goal. <br> 
+Currently, as a Metadata Specialist at DataCite, I contribute to strategic planning, promote and refine the DataCite metadata schema, and ensure its seamless integration into broader PID infrastructures. I also perform quality assurance checks and provide training and support to enhance metadata quality. 
+<br> Before joining DataCite, I worked at SciLifeLab-DataCentre, where I led the implementation of open-source technical solutions. I also had the pleasure of leading a  team of developers and data stewards in an agile environment. My certification as a product owner from scrum.org has been instrumental in this role.
+<br>In my previous position as Unit Head for Research Data Management at the Max Delbrück Centre for Molecular Medicine (MDC), I helped develop strategies, policies, and procedures to support open research.
+<br>One of the projects I am proud of is leading the development of the Open Data module for NASAs OpenCore project. It was a unique opportunity to coordinate efforts across the globe.
+<br>Co-founding FAIRPoints and serving on the steering committee for the FAIR Digital Objects forum has allowed me to engage with a community that shares my commitment to FAIR data principles.
+<br>I also mentor at Open Life Science and actively participate in various communities, promoting Open & FAIR Research practices and advocating for equality, diversity, and inclusion.
+<br>If you are interested in discussing FAIR data principles, open science, or data-driven research practices, I would love to connect.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "selgebali@opencider.org"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/selgebali"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
-
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+  url: "https://www.linkedin.com/in/selgebali/"
 
 - name: Mastadon
   icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
+  url: "https://fairpoints.social/@yalahowy"
 
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
+#- name: Facebook
+ # icon: "fab fa-facebook"
+  #url: "#"
+
+- name: ORCID
+  icon: "fab fa-orcid"
+  url: "https://orcid.org/0000-0003-1378-5495"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume.pdf"
+  url: "files/2024-05991_Sara El-Gebali_CV.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: Professional Scrum Product Owner™ I (PSPO I)
+  url: "https://www.credly.com/badges/3164f6df-ea10-4d05-9472-3b24ea3cf691"
+  badge: "https://images.credly.com/images/591762c5-fae7-49c6-b326-e1756979928d/image.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: Open Data Module Lead
+  url: "https://www.credly.com/org/nasa-tops/badge/nasa-open-science"
+  badge: "https://images.credly.com/images/d64b24d8-66f3-435a-bc76-2d70c26b0d67/image.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Carpentries Instructor
+  url: "https://carpentries.org/instructors/"
+  badge: "https://datascience.wisc.edu/wp-content/uploads/sites/1430/2021/06/TheCarpentries-260x300.jpg"
 
 - type: soft-skill-indicator
   name: Leadership
@@ -88,12 +90,12 @@ badges:
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: Open Science
   percentage: 90
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: Teaching
   percentage: 85
   color: orange
 
