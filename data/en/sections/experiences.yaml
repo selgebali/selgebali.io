@@ -54,7 +54,7 @@ experiences:
     logo: /images/sections/experiences/fairdo.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company2.jpg
-   # overview: 
+    overview: The FDO Forum is proposed as a neutral place where policy, researchers and technological experts can meet to exchange information about all relevant aspects related to FDOs. 
   positions:
   - designation: Steering Committee Member
     start: 2022
@@ -62,6 +62,22 @@ experiences:
     responsibilities:
     - Engage in strategic planning and initiative execution to promote FAIR Digital Objects' adoption in research and data management.
     - Develop guidelines and standards to boost digital objects' interoperability, accessibility, and reusability.
+ ###########
+- company:
+    name: Open Life Science 
+    url: "https://openlifesci.org/"
+    location: Remote
+    logo: /images/sections/experiences/ols.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company3.jpg
+    overview: OLS is a not-for profit organisation dedicated to capacity building and diversifying leadership in research worldwide. We imagine a future where research is accessible, inclusive, and equitable for everyone.
+  positions:
+  - designation: Governance Committee Member
+    start: 2023
+    # end: 2022
+    responsibilities:
+    - Advising on policy and direction within Open Life Science to promote ethical and inclusive open science practices.
+    - Mentor and guide early-career researchers in implementing effective open science principles within their projects.
  ###########
 - company:
     name: NASA Transform to Open Science
