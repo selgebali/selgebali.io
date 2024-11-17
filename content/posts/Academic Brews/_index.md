@@ -3,6 +3,6 @@ title: Academic Brews
 menu:
   sidebar:
     name: Academic Brews
-    identifier: category
+    identifier: brew
     weight: 30
 ---

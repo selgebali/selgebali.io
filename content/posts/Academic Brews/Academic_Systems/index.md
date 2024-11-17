@@ -6,6 +6,7 @@ menu:
   sidebar:
     name: Academic Systems
     identifier: markdown
+    parent: brew
     weight: 20
 author:
   name: Sara El-Gebali
