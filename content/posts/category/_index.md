@@ -1,8 +1,8 @@
 ---
-title: Top Category Sample
+title: Academic Brews
 menu:
   sidebar:
-    name: Category
+    name: Academic Brews
     identifier: category
-    weight: 20
+    weight: 30
 ---

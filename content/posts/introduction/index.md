@@ -1,18 +1,17 @@
 ---
 title: "Introduction"
-date: 2020-06-08T08:06:25+06:00
-description: Introduction to Sample Post
+date: 2024-11-17
+description: Introduction
 menu:
   sidebar:
     name: Introduction
     identifier: introduction
     weight: 10
-tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
+Hi there! 
+Welcome to my **brain dump zone**! Here's where I share my rants and general fuckery and yep, I'm always poking bears! 
 
-Greeting! This is an introduction post. This post tests the followings:
+I'm trying to make sense of this world, because look at the state we're in, "pointing broadly at everything around". 
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+Everything here comes straight from my own experiences and opinions, representing absolutely no one but myself. If you feel like chatting, sharing your perspective, or suggesting a topic, I'd love to have a Fika with you. Just drop me a line!

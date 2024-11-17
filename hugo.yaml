@@ -85,7 +85,7 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: false
+      enable: True
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
@@ -106,7 +106,7 @@ params:
 
     # Enable comment feature. There, should be only one of them.
     comment:
-      enable: true
+      enable: false
       services:
         disqus:
           shortName: selgebali

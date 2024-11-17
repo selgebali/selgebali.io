@@ -1,9 +1,9 @@
 ---
-title: Sub-Category
+title: To come
 menu:
   sidebar:
-    name: Sub-Category
+    name: More soon
     identifier: sub-category
     parent: category
-    weight: 10
+    weight: 40
 ---
