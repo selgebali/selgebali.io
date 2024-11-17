@@ -16,17 +16,12 @@ company:
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
-# resume: "files/2024-05991_Sara El-Gebali_CV.pdf"
+# resume: "files/Sara_CV.pdf"
 
 # a summary about you
-summary: 'I am a dedicated Project Lead, Product Owner, and Research Data Manager with a Ph.D. in cancer research. My journey has been driven by a passion for transforming data into meaningful insights, and I have been fortunate to work on projects that align with this goal. <br> 
-Currently, as a Metadata Specialist at DataCite, I contribute to strategic planning, promote and refine the DataCite metadata schema, and ensure its seamless integration into broader PID infrastructures. I also perform quality assurance checks and provide training and support to enhance metadata quality. 
-<br> Before joining DataCite, I worked at SciLifeLab-DataCentre, where I led the implementation of open-source technical solutions. I also had the pleasure of leading a  team of developers and data stewards in an agile environment. My certification as a product owner from scrum.org has been instrumental in this role.
-<br>In my previous position as Unit Head for Research Data Management at the Max Delbrück Centre for Molecular Medicine (MDC), I helped develop strategies, policies, and procedures to support open research.
-<br>One of the projects I am proud of is leading the development of the Open Data module for NASAs OpenCore project. It was a unique opportunity to coordinate efforts across the globe.
-<br>Co-founding FAIRPoints and serving on the steering committee for the FAIR Digital Objects forum has allowed me to engage with a community that shares my commitment to FAIR data principles.
-<br>I also mentor at Open Life Science and actively participate in various communities, promoting Open & FAIR Research practices and advocating for equality, diversity, and inclusion.
-<br>If you are interested in discussing FAIR data principles, open science, or data-driven research practices, I would love to connect.'
+summary: 'Metadata Specialist and Project Leader with over a decade of experience in scientific data curation, metadata management, and open science advocacy. Passionate about advancing Open Science, FAIR principles, and making a meaningful impact through community efforts.
+
+<br>If you are interested in discussing FAIR data principles, Open Science or Data-Driven research practices, I would love to connect.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

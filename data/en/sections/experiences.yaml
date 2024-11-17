@@ -26,10 +26,11 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Champion the promotion, refinement, and integration of the DataCite metadata schema across broader PID infrastructures.
-    - Conduct quality assurance checks and metric analysis to elevate metadata quality.
-    - Contribute to the strategic planning and concept development within the PID4NFDI project.
-    - Provide expert training, guidance, and support.
+    - Conduct and lead quantitative and qualitative data analysis to inform metadata strategies, presenting key insights within and outside the PID4NFDI project through data visualizations.
+    - Facilitate metadata harmonization efforts and collaborate on community projects to align our metadata approach with best practices, particularly within the NFDI and related frameworks.
+    - Coordinate with PID4NFDI project partners, provide consulting and advice on metadata interoperability solutions, supporting cross-platform compatibility.
+    - Define and analyze key performance metrics to monitor metadata usage, identify areas for enrichment, and improve metadata quality and accessibility.
+    - Develop and maintain dashboards and automated tools for analytics and reporting of metadata quality.
  ###########
 - company:
     name: FAIRPoints
