@@ -7,7 +7,7 @@ menu:
     name: Academic Systems
     identifier: markdown
     parent: brew
-    weight: 20
+    weight: 10
 author:
   name: Sara El-Gebali
   image: /images/author/Twitter_profile.jpg
@@ -48,9 +48,6 @@ Also, is it not like the students, or those who find themselves in this unfortun
 They created this culture where speaking out against a powerful advisor is viewed as "career suicide" and it makes it incredibly difficult for people to seek redress or even question the fairness of the reference process (let alone the treatment they are subjected to).
 
 Where are the checks and balances when it comes to references? To make things worse, references are typically confidential and not scrutinized by someone else (or the person in question). This secrecy, while intended to encourage honesty, often shields abusive behavior and prevents accountability. Peer review any one? 
-{{< img src="/posts/Academic_Systems/peer.jpg" height="400" width="600" title="A boat at the sea" >}}
-
-{{< vs 3 >}}
 
 The gatekeeping function of references often ensures that people who do not conform to the expectations or norms of their supervisors are filtered out. This disproportionately impacts individuals who are LGBTQ+, POC, neurodivergant, disabled, or those who simply do not fit the mold of what a traditional academic is "supposed" to be. A negative or lukewarm reference, or worse, a lack of a reference, can be devastating in a system that still relies heavily on hierarchical endorsements.
 
