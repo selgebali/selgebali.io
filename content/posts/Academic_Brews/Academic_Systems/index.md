@@ -48,7 +48,8 @@ Also, is it not like the students, or those who find themselves in this unfortun
 They created this culture where speaking out against a powerful advisor is viewed as "career suicide" and it makes it incredibly difficult for people to seek redress or even question the fairness of the reference process (let alone the treatment they are subjected to).
 
 Where are the checks and balances when it comes to references? To make things worse, references are typically confidential and not scrutinized by someone else (or the person in question). This secrecy, while intended to encourage honesty, often shields abusive behavior and prevents accountability. Peer review any one? 
-{{< img src="/posts/Academic_Systems/peer.jpg" height="400" width="600" title="Peer Review" >}}
+
+{{< img src="/posts/Academic_Brews/Academic_Systems/peer.jpg" height="400" width="600" title="Peer Review" >}}
 
 {{< vs 3 >}}
 
@@ -76,8 +77,8 @@ This is not an isolated case, students have been made to work excessive hours, p
 Now,,,let's grab a coffee and go for another rant......see you soon!
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="/posts/Academic_Systems/politics1.jpg" height="300" width="300" alt="quote from Enola Holmes movie" style="margin-right: 10px;">
-    <img src="/posts/Academic_Systems/politics2.jpg" height="300" width="300" alt="quote from Enola Holmes movie">
+    <img src="/posts/Academic_Brews/Academic_Systems/politics1.jpg" height="300" width="300" alt="quote from Enola Holmes movie" style="margin-right: 10px;">
+    <img src="/posts/Academic_Brews/Academic_Systems/politics2.jpg" height="300" width="300" alt="quote from Enola Holmes movie">
 </div>
 
 
